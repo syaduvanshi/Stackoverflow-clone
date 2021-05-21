@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+}
+.block{
+    background-color:rgb(12, 6, 6);
+    height:85vh;
+    width:95%;
+    border-radius: 3%;
+    
+}
+.blockspan{
+    color:orange;
+}
+.para{
+    color:white;
+    font-size: xx-large;
+    font-weight: bold;
+    margin-top: 270px;
+    margin-left:370px;
+}
+.w3-button{
+    background-color:white;
+    padding:16px;
+    
+    color:orange;
+    margin-left:570px;
+    border-radius: 5px;
+    text-decoration:none;
+}
+.w3-button:hover{
+    text-decoration: none;
+    color:white;
+    background-color: orange;
+}
